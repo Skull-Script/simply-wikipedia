@@ -1,40 +1,30 @@
 # Simply Wikipedia
 
-Simply Wikipedia is a minimalist, redesigned skin for Wikipedia focused on enhancing readability and accessibility. By reducing clutter and improving navigation, Simply Wikipedia aims to provide a cleaner, more user-friendly interface for Wikipedia, making it easier to consume and engage with information.
+Simply Wikipedia is an open-source project that aims to create a more streamlined, user-friendly, and accessible front end for Wikipedia. This project, led by a solo college developer, serves as a hands-on learning experience in UI/UX design while providing a new way to access Wikipedia content.
 
 ## Project Goals
 
-Simply Wikipedia is designed with inclusivity and accessibility in mind, aiming to create a smoother reading experience for all. Our future plans include:
+Simply Wikipedia is designed to enhance the accessibility and usability of Wikipedia by:
 
-Dyslexia-Friendly Fonts to support users with dyslexia
-AI-Powered Language Translations for multilingual accessibility
-Customizable Themes (e.g., dark mode) to suit various reading environments
-Optimized Navigation for faster, easier access to information
-Current Release: 0.1.0
+Streamlining the User Experience: Simplifying the Wikipedia interface to reduce clutter and make information easier to find and consume.
+Improving Accessibility: Adding features like a dyslexia-friendly font to support users with different reading needs.
+Expanding Language Access: Exploring a translation feature for pages not natively available in other languages to help users access more information.
+Current Status: Version 0.1.0
 
-The first release, version 0.1.0, provides a basic template of the redesigned skin, establishing a foundation for future development. This initial version focuses on core functionality without advanced styling, allowing us to build on a solid base as we implement accessibility features and visual improvements.
+The current release is a foundational build that sets up the Wikipedia API connection and initial page structure. Styling and UI enhancements are not yet implemented, as this version focuses on establishing the basic API functionality. Future updates will build upon this foundation, adding styling and additional accessibility features.
+
+## Features (Planned)
+
+Dyslexia-Friendly Font: A reading aid for users with dyslexia.<br>
+Translation Options: Providing users with the ability to view page content in multiple languages.<br>
+Enhanced Accessibility and UI Improvements: Ongoing refinements to ensure a smooth, inclusive user experience.
+Getting Started
+
+## Getting Started
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Skull-Script/simply-wikipedia.git
 
 
-## Contributing
-
-We welcome contributions from developers, designers, and accessibility experts! If you'd like to help improve Simply Wikipedia, here’s how you can get involved:
-
-Report Issues: Found a bug? Have an idea? Open an issue on GitHub.
-Suggest Features: We’re especially interested in accessibility enhancements, language support, and UI improvements.
-Submit Pull Requests: If you’d like to make changes, please fork the repo, create a branch, and submit a pull request.
-Roadmap
-
-## Our future plans include:
-
-Adding dyslexia-friendly font options
-Incorporating AI for real-time language translations
-Enabling dark mode and other theme options
-Improving readability with customizable typography and spacing
-Supporting mobile and tablet experiences with responsive design
-License
-
-Simply Wikipedia is open source and available under the MITGPL-3.0 License.
-
-## Contact
-
-For questions or suggestions, feel free to reach out through GitHub or open an issue.
+Simply Wikipedia is licensed under the GPL-3.0 License, and contributions are welcome! Developers interested in accessibility, UI/UX design, or general API integrations are encouraged to help shape this project.
